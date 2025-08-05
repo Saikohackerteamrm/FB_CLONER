@@ -18,7 +18,7 @@ _______________________________________
 
     # Single installation command
 
-    apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y  && git clone https://github.com/Saikohackerteamrm/FB_CLONER && cd FB_CLONER && python python Mithila.py
+    apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y  && git clone https://github.com/Saikohackerteamrm/FB_CLONER && cd FB_CLONER && python Mithila.py
  ### Hi there 👋
 
 <!--
